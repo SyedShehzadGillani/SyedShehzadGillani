@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [SyedShehzadGillani](https://www.linkedin.com/in/syed-shehzad-gillani/)
+- **LinkedIn:** [Syed Shehzad Gillani](https://www.linkedin.com/in/syed-shehzad-gillani/)
 - **Email:** [akdevilhunter@gmail.com](mailto:akdevilhunter@gmail.com)
 
 Feel free to reach out to discuss code, collaborate on projects, or simply connect!
