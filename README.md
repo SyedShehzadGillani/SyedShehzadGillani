@@ -18,9 +18,23 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 - ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge)
 
+### Additional Skills
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+- ![DevOps](https://img.shields.io/badge/-DevOps-0A66C2?logo=devops&logoColor=white&style=for-the-badge)
+- ![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white&style=for-the-badge)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+
 ### Others
 - ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 - ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF5733?logo=security&logoColor=white&style=for-the-badge)
+
+---
+
+## 📊 Most Coded Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedShehzadGillani&layout=compact&hide_border=true&theme=radical" alt="Most Coded Languages" />
+</div>
 
 ---
 
