@@ -43,9 +43,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a love 
 
 ## 📬 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/yourhandle)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/syed-shehzad-gillani/)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/)
+- **Email:** [your.email@example.com](mailto:akdevilhunter@gmail.com)
 
 Feel free to reach out to discuss code, collaborate on projects, or simply connect!
 
@@ -61,9 +61,9 @@ Feel free to reach out to discuss code, collaborate on projects, or simply conne
 ## 💻 Projects
 
 Here are some highlighted projects that showcase my expertise:
-- **[Project Name 1](https://github.com/SyedShehzadGillani/Project1)** - Brief description of the project.
-- **[Project Name 2](https://github.com/SyedShehzadGillani/Project2)** - Brief description of the project.
-- **[Project Name 3](https://github.com/SyedShehzadGillani/Project3)** - Brief description of the project.
+- **[Brute Conda](https://github.com/SyedShehzadGillani/BruteConda)** - A Directory Bruteforcing Tool That Makes Your Life Easier!
+- **[Admin Snatcher](https://github.com/SyedShehzadGillani/AdminSnatcher)** - Let's Snatch The Admin Panel Of Any Website In Seconds.
+- **[Exploit Mafia](https://github.com/SyedShehzadGillani/ExploitMafia)** - A Handy Tool That Makes Your Pentesting Easy!
 
 ---
 
