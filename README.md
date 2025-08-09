@@ -41,6 +41,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Deno](https://img.shields.io/badge/-Deno-000000?logo=deno&logoColor=white&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=for-the-badge)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -52,6 +55,7 @@
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF5733?logo=security&logoColor=white&style=for-the-badge)
 ![SEO](https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/-DevOps-0A66C2?logo=devops&logoColor=white&style=for-the-badge)
+
 
 ---
 
