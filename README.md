@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=200&section=header&text=Hi%20there,%20I'm%20Shehzad%20Gillani!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SyedShehzadGillani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SyedShehzadGillani.SyedShehzadGillani" alt="visitor badge" />
 </p>
 
 <!-- Animated Typing SVG -->
@@ -94,3 +94,23 @@
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedShehzadGillani&bg_color=0d1117&color=ff5733&line=61dafb&point=f9f9f9&area=true&hide_border=true)
+
+![GitHub followers](https://img.shields.io/github/followers/SyedShehzadGillani?label=Follow&style=social)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedShehzadGillani&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedShehzadGillani&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SyedShehzadGillani&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=200&section=header&text=Hi%20there,%20I'm%20Shehzad%20Gillani!%20👋&fontSize=35&fontColor=ffffff&animation=wave&fontAlignY=35)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedShehzadGillani&bg_color=0d1117&color=ff5733&line=61dafb&point=f9f9f9&area=true&hide_border=true)
+
