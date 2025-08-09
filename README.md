@@ -58,7 +58,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/SyedShehzadGillani/SyedShehzadGillani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SyedShehzadGillani/SyedShehzadGillani/output/snake.svg)
+
 
 ---
 
