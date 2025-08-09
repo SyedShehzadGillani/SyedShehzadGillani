@@ -1,8 +1,21 @@
-# Hi there, I'm Shehzad Gillani! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF5733&height=200&section=header&text=Hi%20there,%20I'm%20Shehzad%20Gillani!%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SyedShehzadGillani&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SyedShehzadGillani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&width=700&lines=Full-Stack+Developer;Ethical+Hacker;Bug+Hunter;Problem+Solver;Always+Learning+New+Tech)](https://git.io/typing-svg)
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Ethical+Hacker;Bug+Hunter;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Fun animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="Waving hand gif"/>
+</p>
+
 
 ---
 
