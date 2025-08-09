@@ -57,7 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 ![Snake animation](https://raw.githubusercontent.com/SyedShehzadGillani/SyedShehzadGillani/output/snake.svg)
 
 
